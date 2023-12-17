@@ -1,4 +1,3 @@
-
 import { dataSets } from '../model/model';
 import Diagram from './Diagram';
 import { ICost } from '@/entities/CostItem/model/types';

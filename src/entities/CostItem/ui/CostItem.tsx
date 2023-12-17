@@ -1,4 +1,3 @@
-
 import CostDate from './CostDate';
 import { ICost } from '../model/types';
 import styles from './CostItem.module.scss';

@@ -1,4 +1,3 @@
-
 import DiagramBar from './DiagramBar';
 import { IMonthAmount } from '../model/types';
 import styles from './Diagram.module.scss';
